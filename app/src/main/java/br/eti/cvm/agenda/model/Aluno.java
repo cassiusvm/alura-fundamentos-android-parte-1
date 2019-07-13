@@ -1,6 +1,6 @@
 package br.eti.cvm.agenda.model;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 public class Aluno {
     private String nome;
